@@ -14,5 +14,5 @@ Let's Solve Together ! :checkered_flag:
  
 <h3>Contents : :pencil:</h3>
 <ul>
-  <li><a href="https://github.com/yourajdeep/LEETCODE_solutions/Easy/main/">Easy</a></li>
+  <li><a href="https://github.com/yourajdeep/LEETCODE_solutions/tree/main/Easy">Easy</a></li>
 </ul>
