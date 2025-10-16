@@ -5,7 +5,7 @@ Let's Solve Together ! :checkered_flag:
 <ul>
  <li>This repo contains solutions to leetcode questions highly important for interviews in C++.</li>
  <li> Why I am doing this ? Knowledge should be distributed freely among all.</li>
- <li> You can connect with me on LinkedIn - <a href="https://www.linkedin.com/yourajdeep/in/">yourajdeep</a></li>
+ <li> You can connect with me on LinkedIn - <a href="https://www.linkedin.com/in/yourajdeep/">yourajdeep</a></li>
 </ul>
 
 ![](https://komarev.com/ghpvc/?username=yourajdeep)
